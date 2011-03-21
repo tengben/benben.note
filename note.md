@@ -1,3 +1,8 @@
+# vim
+## vim mode
+	
+	:h vim-modes
+
 GUI -> Command Line
 ls -> list
 cd -> Change Directroy (No folder)
