@@ -3,6 +3,13 @@
 	
 	:h vim-modes
 
+save and quit:
+
+	:wq
+
+quit without saving
+
+	:q!
 GUI -> Command Line
 ls -> list
 cd -> Change Directroy (No folder)
