@@ -26,3 +26,6 @@ http://happypeter.github.com/LGCB
 
 search "steve jobs stanford" in youku.com
 
+### music
+
+serach "the pretty reckless"
