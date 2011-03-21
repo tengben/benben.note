@@ -5,17 +5,18 @@ cd -> Change Directroy (No folder)
 
 ## tab completion
 
-cd first-<tab>
+	cd first-<tab>
 
 ## path
 
 abs path
+
 rel path
 
 ##pkg
 
-sudo apt-get install git-core
-wget 122.115.61.189/tmp/cc-note
+		sudo apt-get install git-core
+		wget 122.115.61.189/tmp/cc-note
 
 ## LGCB
 
