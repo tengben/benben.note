@@ -21,4 +21,7 @@ wget 122.115.61.189/tmp/cc-note
 
 http://happypeter.github.com/LGCB
 
+## for fun
+
+search "steve jobs stanford" in youku.com
 
