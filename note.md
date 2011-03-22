@@ -39,6 +39,10 @@ rel path
 
 	git pull # get the latest updates
 
+### video
+
+wget 122.115.61.189/happycasts/happygit-zh/git_start.ogv
+
 ## LGCB
 
 http://happypeter.github.com/LGCB
