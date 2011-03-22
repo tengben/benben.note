@@ -30,6 +30,10 @@ rel path
 		sudo apt-get install git-core
 		wget 122.115.61.189/tmp/cc-note
 
+# git
+
+	git pull # get the latest updates
+
 ## LGCB
 
 http://happypeter.github.com/LGCB
