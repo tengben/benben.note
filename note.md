@@ -28,6 +28,11 @@ rel path
 ##pkg
 
 		sudo apt-get install git-core
+### install mannually
+
+	chmod +x tool.sh
+	sudo mv tool.sh /bin
+
 		wget 122.115.61.189/tmp/cc-note
 
 # git
