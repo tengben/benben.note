@@ -55,6 +55,12 @@ search "steve jobs stanford" in youku.com
 	content
 	__bold__ _it_
 
+
+run these:
+
+	vim xx.md
+	markdown xx.md > xx.html
+	firefox xx.html
 ### music
 
 serach "the pretty reckless"
