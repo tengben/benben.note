@@ -72,6 +72,8 @@ http://happypeter.github.com/LGCB
 
 search "steve jobs stanford" in youku.com
 
+the art of unix programming
+
 ### Markdown
 
 	# h1
