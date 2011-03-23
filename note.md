@@ -43,6 +43,27 @@ rel path
 
 wget 122.115.61.189/happycasts/happygit-zh/git_start.ogv
 
+### ~/.gitconfig
+
+    [user]
+    name = Peter Wang
+    email = happypeter1983@gmail.com
+    [core]
+    editor = vim
+    [alias]
+    ci = commit -a -v
+    co = checkout
+    st = status
+    br = branch
+    throw = reset --hard HEAD
+    throwh = reset --hard HEAD^
+    [color]
+    ui = true
+
+    [commit]
+    template = ./.commit-template
+    [push]
+    default = current
 ## LGCB
 
 http://happypeter.github.com/LGCB
@@ -68,3 +89,4 @@ run these:
 ### music
 
 serach "the pretty reckless"
+
