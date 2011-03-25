@@ -55,7 +55,11 @@ rel path
 
 ### video
 
-wget 122.115.61.189/happycasts/happygit-zh/git_start.ogv
+    wget 122.115.61.189/happycasts/happygit-zh/git_start.ogv
+
+## TODO
+
+need to clarify `git throw` and `git throwh`
 
 ### ~/.gitconfig
 
