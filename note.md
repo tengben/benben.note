@@ -19,6 +19,7 @@ GUI -> Command Line
 ls -> list
 cd -> Change Directroy (No folder)
 
+# Bash
 
 ## tab completion
 
@@ -77,7 +78,7 @@ http://happypeter.github.com/LGCB
 
 search "steve jobs stanford" in youku.com
 
-the art of unix programming
+check the book _The art of unix programming_
 
 ### Markdown
 
