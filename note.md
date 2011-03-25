@@ -3,6 +3,9 @@
 
 ~/.vimrc
 
+## get peter's config
+
+http://happypeter.github.com/GitBeijing/vim-conf-share.html
 
 ## vim mode
 	
@@ -20,6 +23,11 @@ ls -> list
 cd -> Change Directroy (No folder)
 
 # Bash
+
+## script language
+
+- usually is interpreted language
+- run some fucntions of a specific program
 
 ## tab completion
 
