@@ -1,4 +1,9 @@
 # vim
+## vimrc
+
+~/.vimrc
+
+
 ## vim mode
 	
 	:h vim-modes
