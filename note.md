@@ -21,6 +21,13 @@ quit without saving
 GUI -> Command Line
 ls -> list
 cd -> Change Directroy (No folder)
+## vim ctags
+    
+    ctags hello.c
+    vim hello.c
+    # move to the function call
+    Ctrl-]
+    Ctrl-o
 
 # Bash
 
@@ -59,6 +66,7 @@ rel path
 
 ## TODO
 
+git branch 
 
 ### ~/.gitconfig
 
