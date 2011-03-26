@@ -18,9 +18,6 @@ save and quit:
 quit without saving
 
 	:q!
-GUI -> Command Line
-ls -> list
-cd -> Change Directroy (No folder)
 ## vim ctags
     
     ctags hello.c
@@ -28,9 +25,24 @@ cd -> Change Directroy (No folder)
     # move to the function call
     Ctrl-]
     Ctrl-o
+## insert mode commands
+
+    Ctrl-n
+
+    Ctrl-x-l
+
+    Ctrl-x-k ## :set spell
+
+    Ctrl-x-f
+
+    check :h i_Ctrl-<tab>
+
 
 # Bash
 
+GUI -> Command Line
+ls -> list
+cd -> Change Directroy (No folder)
 ## script language
 
 - usually is interpreted language
