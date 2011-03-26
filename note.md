@@ -59,7 +59,6 @@ rel path
 
 ## TODO
 
-need to clarify `git throw` and `git throwh`
 
 ### ~/.gitconfig
 
